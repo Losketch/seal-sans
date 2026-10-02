@@ -39,9 +39,7 @@ cat <<EOF > "$OUTFILE"
 	font-style: normal;
 	font-weight: normal;
 	font-width: normal;
-	unicode-range:
-		U+3D000-3FC3F,
-		U+302A-302F, U+FE00;
+	unicode-range: U+3D000-3FC3F;
 	font-display: swap;
 	font-language-override: normal;
 	ascent-override: 50%;

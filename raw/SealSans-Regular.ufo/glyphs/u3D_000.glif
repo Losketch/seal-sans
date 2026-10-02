@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u3D000" format="2">
+  <advance width="1021" height="1240"/>
+  <unicode hex="3D000"/>
+  <outline>
+    <contour>
+      <point x="142" y="359" type="curve"/>
+      <point x="144" y="345"/>
+      <point x="164" y="339"/>
+      <point x="197" y="339" type="curve"/>
+      <point x="651" y="344"/>
+      <point x="878" y="354"/>
+      <point x="878" y="372" type="curve"/>
+      <point x="878" y="392"/>
+      <point x="843" y="401"/>
+      <point x="772" y="401" type="curve"/>
+      <point x="352" y="389"/>
+      <point x="142" y="376"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>990</integer>
+    </dict>
+  </lib>
+</glyph>

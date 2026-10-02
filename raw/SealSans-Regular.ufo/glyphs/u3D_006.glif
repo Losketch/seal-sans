@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u3D006" format="2">
+  <advance width="1020" height="1240"/>
+  <unicode hex="3D006"/>
+  <outline>
+    <contour>
+      <point x="109" y="-114" type="curve"/>
+      <point x="109" y="-128"/>
+      <point x="135" y="-134"/>
+      <point x="189" y="-134" type="curve"/>
+      <point x="620" y="-135"/>
+      <point x="852" y="-138"/>
+      <point x="885" y="-140" type="curve"/>
+      <point x="902" y="-140"/>
+      <point x="911" y="-132"/>
+      <point x="911" y="-114" type="curve"/>
+      <point x="902" y="-97" type="line"/>
+      <point x="866" y="-82" type="line"/>
+      <point x="563" y="-85" type="line"/>
+      <point x="561" y="82" type="line"/>
+      <point x="569" y="573" type="line"/>
+      <point x="563" y="778"/>
+      <point x="552" y="880"/>
+      <point x="534" y="880" type="curve"/>
+      <point x="512" y="880"/>
+      <point x="501" y="860"/>
+      <point x="501" y="818" type="curve"/>
+      <point x="501" y="-84" type="line"/>
+      <point x="240" y="-84"/>
+      <point x="109" y="-94"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>990</integer>
+    </dict>
+  </lib>
+</glyph>
